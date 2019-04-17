@@ -5,6 +5,7 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
-		sout
+		//更改内容
+        System.out.println("genggailadaima");
     }
 }
